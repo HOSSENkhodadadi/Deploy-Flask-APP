@@ -9,7 +9,7 @@ def home():
 def api():
     return "This is vercel api that you can see"
 
-@app.route("/project 1")
+@app.route("/project")
 def project():
     return "This is project one"
 
